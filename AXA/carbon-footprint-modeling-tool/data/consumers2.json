@@ -1,0 +1,2752 @@
+[
+    {
+        "name": "Andouille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Andouille de Guéméné",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Andouille de Vire",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Andouille/réchauffée à la poêle",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Andouillette/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Andouillette de Troyes/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Andouillette/sautée/poêlée",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Boudin blanc truffé/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Boudin noir/rayon frais",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 1.64,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Boudin noir/sauté/poêlé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 1.64,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Bresaola",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 14.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Canard/magret fumé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.58,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Cervelas",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.06,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Cervelas à l'ail/pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.23,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Cervelas obernois",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.23,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chair à saucisse/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.98,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chair à saucisse/porc et buf/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.09,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chair à saucisse/pur porc/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.09,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chipolata/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.09,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chipolata/cuite",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.83,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chorizo",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.17,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chorizo supérieur/doux ou fort/type charcuterie en tranches",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.17,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chorizo supérieur/doux ou fort/type saucisse sèche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Confit de canard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.54,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Confit de canard/viande (cuisse)/sans peau, réchauffé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.54,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Confit de foie de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 2.12,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Confit de foie de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 1.86,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Coppa",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 17.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Dés/allumettes/râpé ou haché de jambon",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Dés/allumettes/râpé ou haché de jambon de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.82,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Diot/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.09,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Épaule de porc/cuite/choix, découennée dégraissée",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Épaule de porc/cuite/standard, découennée dégraissée",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Filet de bacon",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.18,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Fromage de tête",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.94,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Haché de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.12,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon à l'os braisé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.96,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 14.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cru/fumé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 14.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cru/fumé/allégé en matière grasse",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 14.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/choix",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/choix/avec couenne",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/choix/découenné dégraissé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/de Paris/découenné dégraissé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/fumé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/supérieur",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/supérieur/à teneur réduite en sel",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/supérieur/avec couenne",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/supérieur/découenné",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/supérieur/découenné dégraissé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de Bayonne",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 14.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de dinde ou Blanc de dinde en tranche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.82,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de porc à cuire ou Jambon à rôtir/cuire au four",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de poulet ou Blanc de poulet en tranche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.82,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon en croûte",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.78,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambonneau/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.96,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon sec",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 17.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon sec/découenné/dégraissé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 17.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon sec de Parme",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 17.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon sec Serrano",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 17.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon fumé/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.39,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon fumé/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.16,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon nature/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.39,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon nature/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.16,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/boeuf et mouton/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 39.5,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/boeuf et mouton/cuite",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 39.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/buf/mouton et porc, crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 32.3,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 25.0,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/porc et buf/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 25.0,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/pur buf/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 30.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mortadelle",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.18,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mortadelle pistachée pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.18,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mortadelle/porc et boeuf",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.18,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mortadelle/pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.18,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mousse de canard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.63,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mousse de foie de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.51,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mousse de foie de porc supérieure ou Crème de foie",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.51,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Museau de boeuf en vinaigrette",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 22.3,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Museau de porc vinaigrette",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 2.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Oreille de porc demi-sel",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 2.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pancetta ou Poitrine roulée sèche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 17.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté au poivre vert",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté breton",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de foie de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de foie de porc/supérieur",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de foie de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de foie d'oie",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de gibier",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de lapin",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.93,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté en croûte",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 12.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté ou terrine aux champignons (forestier)",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 3.17,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté ou terrine de campagne",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pied de porc demi-sel",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 3.33,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Poitrine de porc demi-sel",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.16,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Poitrine de porc/fumée/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.28,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de poisson/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.63,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de poisson/en sauce",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.71,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de veau/en sauce",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.07,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de volaille/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de volaille/en sauce",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.18,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle nature/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 2.62,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes de canard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes de poulet",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes de Tours",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes d'oie",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes du Mans",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes pur oie",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes traditionnelles de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rond de jambon cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.96,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rosette ou Fuseau",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rôti de volaille en salaison/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.12,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Roulade de porc pistachée",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 10.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Salami",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Salami porc et boeuf",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.14,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Salami pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Salami type danois",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse alsacienne fumée ou Gendarme",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.05,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse cocktail",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 12.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de bière",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.23,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de foie",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 10.8,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Francfort",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.23,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de jambon pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.23,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Montbéliard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.05,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Morteau",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.05,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Morteau/bouillie/cuite à l'eau",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.05,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Strasbourg ou Knack",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 12.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Toulouse/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Toulouse/cuite",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.3,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de volaille/façon charcutière",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 13.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de volaille/type Knack",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 15.3,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse sèche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.14,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse viennoise/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson à l'ail",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 11.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson brioché/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.63,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson cuit pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.77,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson de Paris",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.17,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson de Paris/fumé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.17,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec aux noix et/ou noisettes",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.14,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec pur porc/qualité supérieure",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.08,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Terrine de canard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.3,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Terrine de lapin",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.12,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Andouillette/Andouille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.0,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Boudin blanc truffé/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.0,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Boudin noir",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.62,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Bresaola",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 12.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Canard/magret fumé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Cervelas",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 11.7,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Cervelas à l'ail/pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.67,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Cervelas obernois",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.67,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chair à saucisse/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.09,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chipolata/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.51,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chipolata/cuite",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 11.3,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chorizo",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.46,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Chorizo supérieur/doux ou fort, type saucisse sèche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Confit de canard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.75,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Confit de foie de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 1.92,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Confit de foie de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 1.58,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Coppa",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 15.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Dés/allumettes, râpé ou haché de jambon",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.34,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Dés/allumettes, râpé ou haché de jambon de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.47,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Diot/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.51,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Épaule de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.34,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Filet de bacon",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.36,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Fromage de tête",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.44,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Haché de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon à l'os braisé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.03,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 12.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.34,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon cuit/supérieur",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.34,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de Bayonne",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 12.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de dinde ou Blanc de dinde en tranche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.47,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de porc à cuire ou Jambon à rôtir/cuire au four",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.34,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon de poulet ou Blanc de poulet en tranche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.47,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon en croûte",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.83,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambonneau/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.03,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Jambon sec",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 15.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon fumé/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.66,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon fumé/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.21,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon nature/cru",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.66,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Lardon nature/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.21,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/boeuf et mouton, crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 47.7,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/boeuf et mouton, cuite",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 47.8,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/boeuf, mouton et porc, crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 38.3,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 28.7,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/porc et boeuf, crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 28.7,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Merguez/pur boeuf, crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 36.8,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mortadelle",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.26,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mousse de canard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Mousse de foie de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.91,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Museau de boeuf en vinaigrette",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 27.1,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Museau de porc vinaigrette",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 1.98,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Oreille de porc demi-sel",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 2.33,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pancetta ou Poitrine roulée sèche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 15.9,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté au poivre vert",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté breton",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de foie de porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de foie de volaille",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de foie d'oie",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de gibier",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté de lapin",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.14,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté en croûte",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 13.7,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté ou terrine aux champignons (forestier)",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 2.48,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pâté ou terrine de campagne",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Pied de porc demi-sel",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 3.02,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Poitrine de porc demi-sel",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.21,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Poitrine de porc/fumée, crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.56,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de poisson/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.86,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de poisson/en sauce",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.92,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de veau/en sauce",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.51,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de volaille/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle de volaille/en sauce",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.46,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Quenelle nature/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 3.57,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rillettes",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.84,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rond de jambon cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.03,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rosette ou Fuseau",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Rôti de volaille en salaison/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.31,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Roulade de porc pistachée",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 9.51,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Salami",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Salami porc et boeuf",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.45,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse alsacienne fumée ou Gendarme",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.26,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse cocktail",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 14.7,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de bière",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.67,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de foie",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 12.5,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Francfort",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.67,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de jambon pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 8.67,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Montbéliard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.26,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Morteau",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.26,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Morteau/bouillie/cuite à l'eau",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.26,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Strasbourg ou Knack",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 14.7,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Toulouse/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.0,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de Toulouse/cuite",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.2,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de volaille/façon charcutière",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 13.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse de volaille/type Knack",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 17.6,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse sèche",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.45,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse suisse à cuire",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 7.26,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisse viennoise/crue",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 16.0,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson à l'ail",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 11.8,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson brioché/cuit",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 4.89,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson cuit pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.88,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson de Paris",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.46,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson de Paris/fumé",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.46,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec aux noix et/ou noisettes",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.45,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec pur porc",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Saucisson sec pur porc/qualité supérieure",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.4,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Terrine de canard",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 6.18,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    },
+    {
+        "name": "Terrine de lapin",
+        "category": "food",
+        "description": "Number of CO2e kg per kg eaten",
+        "consumptions": {
+            "unit": "kg",
+            "value": 5.21,
+            "base_unit": "kg",
+            "reference_url": "https://base-empreinte.ademe.fr/donnees/jeu-donnees"
+        }
+    }
+]
