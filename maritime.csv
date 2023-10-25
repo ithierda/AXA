@@ -1,0 +1,61 @@
+name;value
+Cargo/10 000 à 20 000 tonnes/HFO-MGO;0.0132
+Cargo/< 10 000 tonnes/HFO-MGO;0.0191
+Ferry/de jour;0.0506
+Ferry/de nuit;0.0879
+Gazier/Petit GPL/Donnée 2009;0.0546
+Gazier/VLGC (Very Large Gas Carrier)/Donnée 2009;0.0147
+Gazier/petit GPL;0.0546
+Gazier/VLGC (Very Large Gas Carrier);0.0147
+Pétrolier/> 200 000 tonnes/GNL;0.0026
+Pétrolier/> 200 000 tonnes/HFO-MGO;0.00261
+Pétrolier/5 000 à 60 000 tonnes/HFO-MGO;0.0207
+Pétrolier/< 5 000 tonnes/HFO-MGO;0.0606
+Pétrolier/60 000 à 200 000 tonnes/HFO-MGO;0.00884
+Pétrolier/Aframax, de 68500 à 200000 tonnes de port en lourd;0.00543
+Pétrolier/Handy product, de 26500 à 68499 tonnes de port en lourd;0.0187
+Pétrolier/Petit product tanker, de moins de 26500 tonnes de port en lourd;0.0253
+Pétrolier/VLCC, de plus de 200000 tonnes de port en lourd;0.00336
+Porte-conteneur/Dry/Asie - Europe du Nord;0.00554
+Porte-conteneur/Dry/Asie - Méditerranée;0.00695
+Porte-conteneur/Dry/Autres liaisons détaillées;0.0131
+Porte-conteneur/Dry/Europe - Afrique;0.0109
+Porte-conteneur/Dry/Europe - Amérique du Sud et Centrale;0.00879
+Porte-conteneur/Dry/Europe du Nord - Amérique du Nord, façade atlantique;0.0109
+Porte-conteneur/Dry/Europe du Nord - Amérique du Nord, façade pacifique;0.0105
+Porte-conteneur/Dry/Europe du Nord - Médtierranée;0.0109
+Porte-conteneur/Dry/Europe - Moyen-Orient et Inde;0.00717
+Porte-conteneur/Dry/Europe - Océanie;0.012
+Porte-conteneur/Dry/Intra Europe du Nord;0.0152
+Porte-conteneur/Dry/Intra Méditerranée;0.0163
+Porte-conteneur/Dry/Méditerranée - Amérique du Nord, façade atlantique;0.0109
+Porte-conteneur/Dry/Méditerranée - Amérique du Nord, façade pacifique;0.00934
+Porte-conteneur/Reefer/Asie - Europe du Nord;0.0109
+Porte-conteneur/Reefer/Asie - Méditerranée;0.013
+Porte-conteneur/Reefer/Autres liaisons détaillées;0.0206
+Porte-conteneur/Reefer/Europe - Afrique;0.0185
+Porte-conteneur/Reefer/Europe - Amérique du Sud et Centrale;0.0152
+Porte-conteneur/Reefer/Europe du Nord - Amérique du Nord, façade atlantique;0.0163
+Porte-conteneur/Reefer/Europe du Nord - Amérique du Nord, façade pacifique;0.0163
+Porte-conteneur/Reefer/Europe du Nord - Médtierranée;0.0184
+Porte-conteneur/Reefer/Europe - Moyen-Orient et Inde;0.013
+Porte-conteneur/Reefer/Europe - Océanie;0.0174
+Porte-conteneur/Reefer/Intra Europe du Nord;0.0239
+Porte-conteneur/Reefer/Intra Méditerranée;0.0271
+Porte-conteneur/Reefer/Méditerranée - Amérique du Nord, façade atlantique;0.0174
+Porte-conteneur/Reefer/Méditerranée - Amérique du Nord, façade pacifique;0.0152
+Ro-Pax/HFO-MGO;0.209
+Ro-Ro/Camions et Remorques/HFO-MGO;0.101
+Ro-Ro/Chargement moyen/HFO-MGO;0.0457
+Ro-Ro/Remorques uniquement/HFO-MGO;0.0687
+Roulier/Ro-Pax;0.0775
+Roulier/Ro-Ro;0.103
+Vraquier/> 100 000 tonnes/HFO - MGO;0.0029
+Vraquier/10 000 à 100 000 tonnes/HFO - MGO;0.00741
+Vraquier/< 10 000 tonnes/GNL;0.0027
+Vraquier/< 10 000 tonnes/HFO - MGO;0.0325
+Vraquier/Capesize, de plus de 127500 tonnes de port en lourd;0.00365
+Vraquier/Handymax, de 40250 à 63499 tonnes de port en lourd;0.00586
+Vraquier/Handysize, de moins de 40250 tonnes de port en lourd;0.0112
+Vraquier/Panamax, de 63500 à 127500 tonnes de port en lourd;0.00544
+Vraquier/petit fluvio-maritime;0.0188
