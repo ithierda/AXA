@@ -1,6 +1,6 @@
 # Internship at AXA
 
-Here you can find all the external and accessible codes I made during my two-months internship at AXA.
+Here you can find all the external and accessible codes I made during my three-months internship at AXA.
 
 After my first year of Bachelor at Albert School, I did an internship in the R&D team of AXA Group Operations. 
 I was able to code mainly in python, to help my internship supervisor with his datamodel. We worked on the carbon emissions of different scenarios. 
